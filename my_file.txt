@@ -1,0 +1,6 @@
+this is a string variable.
+12345
+Hello, World!!
+This is line 4.
+6789
+Appending more text.
